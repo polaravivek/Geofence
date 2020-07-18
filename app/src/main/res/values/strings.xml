@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Geo fencing</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="server_url">http://ec2-13-233-163-100.ap-south-1.compute.amazonaws.com/parse/</string>
+    <string name="app_id">myappID</string>
+    <string name="client_key">imBw5YlS8ooe</string>
+</resources>
